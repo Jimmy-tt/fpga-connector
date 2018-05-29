@@ -1,0 +1,3 @@
+/home/wjt/CLionProjects/fpga_connector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wjt/CLionProjects/fpga_connector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wjt/CLionProjects/fpga_connector/cmake-build-debug/CMakeFiles/fpga_connector.dir
